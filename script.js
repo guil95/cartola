@@ -26,5 +26,5 @@ function showResult() {
 	console.log('Total Negativo: '+totalNegative);
 	console.log('Total Geral: '+total);
 }
-
+ 
 showResult();
